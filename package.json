@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "css-modules": "^0.3.0",
+    "faunadb": "^4.6.0",
     "next": "12.2.0",
     "next-auth": "^4.8.0",
     "react": "18.2.0",
